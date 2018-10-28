@@ -1,6 +1,6 @@
 // omahacomp
 // g++ -std=c++14 omahacomp.cpp -o omahacomp
-// compiled and run successfully in Linux Mint 19
+// compiled and run successfully in Linux Mint 19 / Ubuntu 18.04
 
 #include <iostream>
 #include <fstream>
