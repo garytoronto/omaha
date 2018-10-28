@@ -140,7 +140,7 @@ std::pair<int, int> card_ranker::rank_cards(const CARD_VEC& hand, const CARD_VEC
 
 std::pair<int, int> card_ranker::calculate_score(std::vector<CARD>& card_vec)
 {
-    // to do , but no time
+    // to do 
 
     return {0, 0};
 }
